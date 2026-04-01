@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+*.db
+_pycache_/
+creditpathai-frontend/node_modules/
+creditpathai-frontend/node_modules/
+__pycache__/
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
