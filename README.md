@@ -1,3 +1,4 @@
+Infosys Springboard Internship Project
 # CreditPathAI
 
 CreditPathAI is a machine learning project developed to predict loan default risk using structured financial and demographic data. The objective is to help financial institutions assess borrower risk and make informed lending decisions.
